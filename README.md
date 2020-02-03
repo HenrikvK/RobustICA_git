@@ -1,5 +1,6 @@
 ## Kurtosis-based RobustICA method for deflationary ICA/BSS in C++.
- 
+This repository entails the C++ implementation of the RobustICA method developed by Zarzoso et. al
+
 ### REFERENCE: <br>
 V. Zarzoso and P. Comon, "Robust Independent Component Analysis by Iterative Maximization of the Kurtosis Contrast with Algebraic Optimal Step Size", IEEE Transactions on Neural Networks, Vol. 21, No. 2, February 2010, pp. 248-261. <br>
 See also the [Matlab version from Zarzoso et al.](http://www.i3s.unice.fr/~zarzoso/robustica.html)
